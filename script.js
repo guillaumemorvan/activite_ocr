@@ -1,2 +1,2 @@
-var paragraphe = "Chaine de caracteres composant le paragraphe";
+var paragraphe = "Chaine de caracteres a afficher dans la boite de dialogue";
 alert(paragraphe);
